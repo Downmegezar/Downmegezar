@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Downmegezar
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on new projects
+- 📫 How to reach me szilagyi.alexandru1@gmail.com
